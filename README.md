@@ -7,7 +7,7 @@
   <br>
   
   <a href="https://github.com"><font color="#FFA500">Ryy! ෆ⁠╹⁠ .̮ ⁠╹⁠ෆ</font></a><br>
-  <a href="https://github.com"><font color="#FFA500">cleooo!!! (⁠´⁠ .⁠ ⁠.̫⁠ ⁠.⁠ ⁠`⁠)</font></a>
+  <a href="https://github.com/Dirtbaggy"><font color="#FFA500">cleooo!!! (⁠´⁠ .⁠ ⁠.̫⁠ ⁠.⁠ ⁠`⁠)</font></a>
 </details>
 
 </div>
