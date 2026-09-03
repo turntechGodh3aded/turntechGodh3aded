@@ -1,13 +1,14 @@
 <div align="center">
 
-<img width="498" height="275" alt="2089" src="https://github.com/user-attachments/assets/86fea4b1-b59d-4d49-9ad5-bac048710ed8" />
+<img width="440" height="300" alt="2296" src="https://github.com/user-attachments/assets/3ae9d0eb-c561-42cc-8ae6-c7805db0c648" />
+
 
 <details>
-  <summary> $$\color{#FFFF00}{\mathcal{𝘧𝘳𝘪𝘦𝘯𝘥𝘴!!}}$$ </summary>
+  <summary> $$\color{#e00707}{\mathcal{𝘧𝘳𝘪𝘦𝘯𝘥𝘴!!}}$$ </summary>
   <br>
   
-  <a href="https://github.com"><font color="#FFA500">Ryy! ෆ⁠╹⁠ .̮ ⁠╹⁠ෆ</font></a><br>
-  <a href="https://github.com/Dirtbaggy"><font color="#FFA500">cleooo!!! (⁠´⁠ .⁠ ⁠.̫⁠ ⁠.⁠ ⁠`⁠)</font></a>
+  <a href="https://github.com"><font color="#FFA500">Ry</font></a><br>
+  <a href="https://github.com/Dirtbaggy"><font color="#FFA500">cleooo/dad</font></a>
 </details>
 
 </div>
