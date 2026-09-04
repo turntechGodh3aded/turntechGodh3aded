@@ -2,6 +2,10 @@
   <img src="https://komarev.com/ghpvc/?username=turntechGodh3aded&style=flat&color=e00707&label=losers+who+like+me&base=8312823625&abbreviated=true" alt="GitHubProfileViews" width="200">
 </p>
 
+<p align="center">
+<img width="99" height="56" alt="2312" src="https://github.com/user-attachments/assets/99d81c05-94f1-4df0-bb27-76c373cbf910" />
+</p>
+
 <div align="center">
 
 <img width="440" height="300" alt="2296" src="https://github.com/user-attachments/assets/3ae9d0eb-c561-42cc-8ae6-c7805db0c648" />
