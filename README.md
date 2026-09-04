@@ -1,14 +1,18 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=turntechGodh3aded&style=flat&color=e00707&label=losers+who+like+me&base=8312823625&abbreviated=true" alt="GitHubProfileViews" width="200">
+</p>
+
 <div align="center">
 
 <img width="440" height="300" alt="2296" src="https://github.com/user-attachments/assets/3ae9d0eb-c561-42cc-8ae6-c7805db0c648" />
 
 
 <details>
-  <summary> $$\color{#e00707}{\mathcal{𝘧𝘳𝘪𝘦𝘯𝘥𝘴!!}}$$ </summary>
+  <summary> $$\color{#e00707}{\mathcal{close friends}}$$ </summary>
   <br>
   
-  <a href="https://github.com"><font color="#FFA500">Ry</font></a><br>
-  <a href="https://github.com/Dirtbaggy"><font color="#FFA500">cleooo/dad</font></a>
+  <a href="https://github.com"><font color="#FFA500">Ry/jester</font></a><br>
+  <a href="https://github.com/Dirtbaggy"><font color="#FFA500">cleo</font></a>
 </details>
 
 </div>
