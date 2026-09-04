@@ -11,7 +11,7 @@
   <summary> $$\color{#e00707}{\mathcal{close friends}}$$ </summary>
   <br>
   
-  <a href="https://github.com"><font color="#FFA500">Ry/jester</font></a><br>
+  <a href="https://github.com/JESTEROFTHEERA"><font color="#FFA500">Ry/jester</font></a><br>
   <a href="https://github.com/Dirtbaggy"><font color="#FFA500">cleo</font></a>
 </details>
 
