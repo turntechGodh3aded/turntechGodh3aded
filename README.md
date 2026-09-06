@@ -14,7 +14,11 @@
   <br>
   
   <a href="https://github.com/JESTEROFTHEERA"><font color="#FFA500">Ry/jester</font></a><br>
+  
   <a href="https://github.com/burntushanka"><font color="#FFA500">Kyle (my online sister)</font></a>
+  
+  <a href="https://github.com/NorthPlaygroundLover"><font color="#FFA500">Stan / NPL</font></a>
+  
 </details>
 
 </div>
